@@ -84,36 +84,6 @@ class bipedal(Problem):
         theta2d = 0
         self.sensors = np.array([theta1,theta1d,theta2,theta2d])        
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     def __init__(self,max_time = 1000):
         
         self.max_time = max_time
